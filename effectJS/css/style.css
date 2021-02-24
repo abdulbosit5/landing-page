@@ -1,0 +1,179 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+background-color: #FFF5EE;
+}
+
+.bosh{
+    width: 100%;
+    height: 150px;
+ //   background-color: #fff3cd;
+}
+.bosh1{
+    float: left;
+    height: 150px;
+    width: 50%;
+
+
+}
+.bosh1 img{
+    position: absolute;
+    top: 20px;
+    left: 80px;
+}
+.bosh2{
+    float: left;
+    height: 150px;
+    width: 50%;
+
+}
+.bosh2 a{
+    color: #2F2F2F;
+    font-size: 11pt;
+    font-weight: 500;
+    margin-top: 35px;
+    margin-left: 60px;
+    display: inline-block;
+}
+.bosh a:hover{
+    text-decoration: none;
+}
+
+.urta{
+    width: 100%;
+    height: 513px;
+    /*background-color: #e2e3e5;*/
+}
+.urta1{
+    width: 726px;
+ //   background-color: grey;
+    height: 513px;
+    float: left;
+}
+
+.p1{
+    display: inline-block;
+    color: #2F2F2F;
+    //background-color: pink;
+    font-size: 46pt;
+    position: absolute;
+    top: 170px;
+    left: 80px;
+}
+.p2{
+    display: inline-block;
+    color:#2F2F2F;
+    //background-color: pink;
+    font-size: 46pt;
+    position: absolute;
+    top: 230px;
+    left: 80px;
+}
+.star{
+    color: #007C3F;
+    font-weight: 800;
+    font-size: 56pt;
+    font-family:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" ;
+
+}
+.text{
+    display: inline-block;
+    //background-color: red;
+    position: absolute;
+    top: 320px;
+    left: 80px;
+    width: 520px;
+    color:#2F2F2F;
+    font-weight: 500;
+    font-size: 9pt;
+}
+.btn{
+    background-color: #007C3F;
+    border-radius: 25px;
+    color:white ;
+    padding: 5px 20px;
+    font-size: 9pt;
+    font-weight: 500;
+    position: absolute;
+    top: 408px;
+    left: 80px;
+
+}
+.btn:hover{
+    background-color: #007C3F;
+}
+.urta2{
+    width: 593px;
+    background-color: #007C3F;
+    height: 513px;
+    float: left;
+    border-top-left-radius: 2900px;
+}
+
+.face{
+    position: absolute;
+    top: 240px;
+    left: 1280px;
+}
+.twit{
+    position: absolute;
+    top: 285px;
+    left: 1280px;
+}
+.inst{
+    position: absolute;
+    top: 330px;
+    left: 1280px;
+}
+
+
+
+.img1{
+    position: absolute;
+    top: 560px;
+    left: 472px;
+    transition: all 0.5s;
+}
+.img1:hover{
+    top: 547px;
+}
+.img2{
+    position: absolute;
+    top: 560px;
+    left: 600px;
+    transition: all 0.5s;
+}
+.img2:hover{
+     top: 547px;
+ }
+
+.img3{
+    position: absolute;
+    top: 560px;
+    left: 728px;
+    transition: all 0.5s;
+}
+.img3:hover{
+    top: 547px;
+}
+.older1{
+    position: absolute;
+    top: 105px;
+    left: 820px;
+    display: block;
+}
+
+.older2{
+    position: absolute;
+    top: 105px;
+    left: 820px;
+    display: none;
+}
+.older3{
+    position: absolute;
+    top: 105px;
+    left: 820px;
+    display: none;
+}
